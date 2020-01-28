@@ -1,0 +1,34 @@
+C:\Users\Тёмный Властелин\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Тёмный Властелин\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Тёмный Властелин\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Тёмный Властелин\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Тёмный Властелин\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Тёмный Властелин\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\gameb\Desktop\Курсовая Андрея\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\gameb\Desktop\Курсовая Андрея\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\gameb\Desktop\Курсовая Андрея\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\gameb\Desktop\Курсовая Андрея\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\gameb\Desktop\Курсовая Андрея\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\gameb\Desktop\Курсовая Андрея\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\gameb\Desktop\Курсовая Андрея\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Тёмный Властелин\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Тёмный Властелин\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Тёмный Властелин\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Тёмный Властелин\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Тёмный Властелин\Desktop\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Тёмный Властелин\Desktop\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Тёмный Властелин\Desktop\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Тёмный Властелин\Desktop\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Тёмный Властелин\Desktop\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Тёмный Властелин\Desktop\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Тёмный Властелин\Desktop\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Тёмный Властелин\Desktop\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Тёмный Властелин\Desktop\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Тёмный Властелин\Desktop\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\gameb\Desktop\Учёба\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\gameb\Desktop\Учёба\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\gameb\Desktop\Учёба\Курсач\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\gameb\Desktop\Учёба\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\gameb\Desktop\Учёба\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\gameb\Desktop\Учёба\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\gameb\Desktop\Учёба\Курсач\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
